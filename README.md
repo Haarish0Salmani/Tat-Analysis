@@ -1,2 +1,1 @@
-# Tat-Analysis
-This Repository holds the code of all the projects I recently did about Tat Analysis of different processes.
+Turn around time and multiple bucketing classes working for different operations are contained with in the repository. 
